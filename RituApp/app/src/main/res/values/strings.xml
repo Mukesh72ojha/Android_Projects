@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RituApp</string>
+    <string name="todo" />
+    <string name="c">0*C</string>
+    <string name="__">______</string>
+    <string name="fetching">Fetching</string>
+    <string name="search">Search for city</string>
+    <string name="enter_city_name">Enter city name</string>
+</resources>

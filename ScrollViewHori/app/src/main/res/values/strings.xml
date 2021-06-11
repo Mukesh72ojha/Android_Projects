@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScrollViewHori</string>
+    <string name="no_image">no image</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="add">Add</string>
+    <string name="string_add" />
+</resources>

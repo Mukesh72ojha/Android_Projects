@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="send">Send</string>
+    <string name="enter_something">Enter something</string>
+</resources>
